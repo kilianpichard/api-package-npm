@@ -1,8 +1,13 @@
 {
-  "name": "package-node",
-  "version": "1.0.0",
+  "name": "package-node-kilianp",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilianpichard/hello-world.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
